@@ -32,3 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# temp files
+/static/asset/template
+/public/images
