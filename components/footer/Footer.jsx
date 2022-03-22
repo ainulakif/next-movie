@@ -77,49 +77,17 @@ export default function Footer() {
               data-name="Button"
               className="Button"
             >
-              <div className="Group-18-outer">
-              <div
-                id="Group-18"
-                data-name="Group 18"
-                className="Group-18"
-              >
-                <div className="Arrow-Right-outer">
-                <div
-                  id="Arrow-Right"
-                  data-name="Arrow Right"
-                  className="Arrow-Right"
-                >
-                  <div className="Vector-outer">
+                
+                <div className="Vector-outer">
                   <img
+                    src="images/form_bttn.png"
                     id="Vector"
                     data-name="Vector"
                     alt="Vector"
                     className="Vector"
                   />
                   </div>
-                </div>
-                </div>
-                <div className="Rectangle-1-outer">
-                <div
-                  id="Rectangle-1"
-                  data-name="Rectangle 1"
-                  alt="Rectangle 1"
-                  className="Rectangle-1"
-                >
-                </div>
-                </div>
-              </div>
-              </div>
-              <div className="Rectangle-4-outer">
-              <div
-                id="Rectangle-4"
-                data-name="Rectangle 4"
-                alt="Rectangle 4"
-                className="Rectangle-4"
-              >
-              </div>
-              </div>
-            </div>
+                  </div>
             </div>
             <div className="Insert-your-mail-her-outer">
             <div
@@ -281,6 +249,7 @@ export default function Footer() {
             >
               <div className="Vector-1-outer">
               <img
+                src="images/phone.png"
                 id="Vector-1"
                 data-name="Vector"
                 alt="Vector"
@@ -311,14 +280,15 @@ export default function Footer() {
               data-name="Mail"
               className="Mail"
             >
-              <div className="Vector-2-outer">
+              {/* <div className="Vector-2-outer"> */}
               <img
+                src="images/mail.png"
                 id="Vector-2"
                 data-name="Vector"
                 alt="Vector"
                 className="Vector-2"
               />
-              </div>
+              {/* </div> */}
             </div>
             </div>
           </div>
@@ -349,22 +319,7 @@ export default function Footer() {
                 data-name="Group"
                 className="Group"
               >
-                <div className="Vector-3-outer">
-                <img
-                  id="Vector-3"
-                  data-name="Vector"
-                  alt="Vector"
-                  className="Vector-3"
-                />
-                </div>
-                <div className="Vector-4-outer">
-                <img
-                  id="Vector-4"
-                  data-name="Vector"
-                  alt="Vector"
-                  className="Vector-4"
-                />
-                </div>
+                <img src="images/marker.png" />
               </div>
               </div>
             </div>

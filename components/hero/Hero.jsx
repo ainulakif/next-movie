@@ -40,46 +40,8 @@ export default function Hero() {
             data-name="Play Button"
             className="Play-Button"
           >
-            <div className="Container-7-outer">
-            <img
-              id="Container-7"
-              data-name="Container"
-              alt="Container"
-              className="Container-7"
-            />
-            </div>
-            <div className="Container-8-outer">
-            <img
-              id="Container-8"
-              data-name="Container"
-              alt="Container"
-              className="Container-8"
-            />
-            </div>
-            <div className="Container-9-outer">
-            <img
-              id="Container-9"
-              data-name="Container"
-              alt="Container"
-              className="Container-9"
-            />
-            </div>
-            <div className="Play-outer">
-            <div
-              id="Play"
-              data-name="Play"
-              className="Play"
-            >
-              <div className="Vector-26-outer">
-              <img
-                id="Vector-26"
-                data-name="Vector"
-                alt="Vector"
-                className="Vector-26"
-              />
-              </div>
-            </div>
-            </div>
+            <img src="images/play-button.svg"/>
+
           </div>
           </div>
           <div className="Explore-our-gallery--outer">

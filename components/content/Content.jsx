@@ -99,22 +99,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-7"
                 >
-                  <div className="Vector-17-outer">
-                  <img
-                    id="Vector-17"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-17"
-                  />
-                  </div>
-                  <div className="Vector-18-outer">
-                  <img
-                    id="Vector-18"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-18"
-                  />
-                  </div>
+                  <img src="images/eye.png"/>
                 </div>
                 </div>
               </div>
@@ -147,22 +132,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-8"
                 >
-                  <div className="Vector-19-outer">
-                  <img
-                    id="Vector-19"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-19"
-                  />
-                  </div>
-                  <div className="Vector-20-outer">
-                  <img
-                    id="Vector-20"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-20"
-                  />
-                  </div>
+                  <img src="images/clock.png"/>
                 </div>
                 </div>
               </div>
@@ -262,22 +232,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-9"
                 >
-                  <div className="Vector-21-outer">
-                  <img
-                    id="Vector-21"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-21"
-                  />
-                  </div>
-                  <div className="Vector-22-outer">
-                  <img
-                    id="Vector-22"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-22"
-                  />
-                  </div>
+                  <img src="images/eye.png"/>
                 </div>
                 </div>
               </div>
@@ -310,22 +265,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-10"
                 >
-                  <div className="Vector-23-outer">
-                  <img
-                    id="Vector-23"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-23"
-                  />
-                  </div>
-                  <div className="Vector-24-outer">
-                  <img
-                    id="Vector-24"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-24"
-                  />
-                  </div>
+                    <img src="images/clock.png"/>
                 </div>
                 </div>
               </div>
@@ -425,22 +365,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-1"
                 >
-                  <div className="Vector-5-outer">
-                  <img
-                    id="Vector-5"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-5"
-                  />
-                  </div>
-                  <div className="Vector-6-outer">
-                  <img
-                    id="Vector-6"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-6"
-                  />
-                  </div>
+                  <img src="images/eye.png"/>
                 </div>
                 </div>
               </div>
@@ -473,22 +398,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-2"
                 >
-                  <div className="Vector-7-outer">
-                  <img
-                    id="Vector-7"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-7"
-                  />
-                  </div>
-                  <div className="Vector-8-outer">
-                  <img
-                    id="Vector-8"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-8"
-                  />
-                  </div>
+                  <img src="images/clock.png"/>
                 </div>
                 </div>
               </div>
@@ -588,22 +498,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-3"
                 >
-                  <div className="Vector-9-outer">
-                  <img
-                    id="Vector-9"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-9"
-                  />
-                  </div>
-                  <div className="Vector-10-outer">
-                  <img
-                    id="Vector-10"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-10"
-                  />
-                  </div>
+                  <img src="images/eye.png"/>
                 </div>
                 </div>
               </div>
@@ -636,22 +531,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-4"
                 >
-                  <div className="Vector-11-outer">
-                  <img
-                    id="Vector-11"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-11"
-                  />
-                  </div>
-                  <div className="Vector-12-outer">
-                  <img
-                    id="Vector-12"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-12"
-                  />
-                  </div>
+                  <img src="images/clock.png"/>
                 </div>
                 </div>
               </div>
@@ -751,22 +631,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-5"
                 >
-                  <div className="Vector-13-outer">
-                  <img
-                    id="Vector-13"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-13"
-                  />
-                  </div>
-                  <div className="Vector-14-outer">
-                  <img
-                    id="Vector-14"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-14"
-                  />
-                  </div>
+                  <img src="images/eye.png"/>
                 </div>
                 </div>
               </div>
@@ -799,22 +664,7 @@ export default function Content() {
                   data-name="Group"
                   className="Group-6"
                 >
-                  <div className="Vector-15-outer">
-                  <img
-                    id="Vector-15"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-15"
-                  />
-                  </div>
-                  <div className="Vector-16-outer">
-                  <img
-                    id="Vector-16"
-                    data-name="Vector"
-                    alt="Vector"
-                    className="Vector-16"
-                  />
-                  </div>
+                  <img src="images/clock.png"/>
                 </div>
                 </div>
               </div>
